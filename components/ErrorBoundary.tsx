@@ -1,4 +1,5 @@
-// FIX: Removed unnecessary triple-slash directive for React types, which resolves issues with property access on class components.
+/// <reference types="react" />
+
 import React, { Component, ErrorInfo, ReactNode } from 'react';
 
 interface Props {

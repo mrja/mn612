@@ -1,4 +1,6 @@
-// FIX: Removed unnecessary triple-slash directives for React and @react-three/fiber types to allow for proper module-based type resolution.
+/// <reference types="react" />
+/// <reference types="@react-three/fiber" />
+
 import React, { useRef } from 'react';
 import { Canvas, useFrame, extend, ThreeElements } from '@react-three/fiber';
 import { Text, shaderMaterial, Stars } from '@react-three/drei';

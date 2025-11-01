@@ -1,0 +1,5 @@
+{
+  "name": "MN612 Generative Landing Page",
+  "description": "A generative landing page for mn612.com featuring a morphing logo and utility links, using WebGL for a dynamic visual experience.",
+  "requestFramePermissions": []
+}

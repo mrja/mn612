@@ -1,5 +1,4 @@
-/// <reference types="react" />
-
+// FIX: Removed unnecessary triple-slash directive for React types.
 import React, { Suspense } from 'react';
 import GenerativeLogo from './components/GenerativeLogo';
 import UtilityLinks from './components/UtilityLinks';

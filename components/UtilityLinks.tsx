@@ -1,5 +1,4 @@
-/// <reference types="react" />
-
+// FIX: Removed unnecessary triple-slash directive for React types.
 import React from 'react';
 
 const links = [
